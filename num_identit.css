@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin-top: 5%;
+}
+.hdc {
+  color: rgb(11, 88, 88);
+  text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.24);
+}
+input {
+  padding: 13px;
+  outline: none;
+  border: none;
+  width: 240px;
+
+  border-right: 10px solid rgb(0, 225, 255);
+  border-left: 10px solid rgb(0, 225, 255);
+
+  outline: none;
+}
+input:focus {
+  outline: 1px solid green;
+}
+button {
+  padding: 13px 20px;
+  background-color: rgb(0, 225, 255);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+* {
+  transition: 0.9ms ease-in-out;
+}
+button:active {
+  padding: 11px 18px;
+  background-color: rgba(0, 225, 255, 0.37);
+}
+.container {
+  width: 500px;
+  padding: 20px;
+  border: 1px solid rgb(0, 225, 255);
+  border-radius: 15px;
+  margin: auto;
+  font-size: 12px;
+  text-align: left;
+  color: rgb(49, 47, 47);
+  margin-top: 20px;
+}
+.ipg {
+  width: 400px;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
