@@ -40,6 +40,6 @@ async function verifyNum() {
        `;
   } catch (error) {
     console.log("Error fetching number data:", error.message);
-    output.textContent = "Couldnt Verify Number";
+    output.textContent = "Couldnt Fetch Data";
   }
 }
