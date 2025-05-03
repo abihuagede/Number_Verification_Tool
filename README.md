@@ -5,7 +5,9 @@ This is a simple JavaScript-based tool that verifies phone numbers using the [Nu
 
 <a href="https://abihuagede.github.io/Number_Verification_Tool/num_identity.html">live demo</a>
 
-![Uploading Screenshot 2025-05-03 104945.png…]()
+
+ 
+![Screenshot 2025-05-03 104945](https://github.com/user-attachments/assets/960e19d8-b829-4049-8981-2566db412c2c)
 
 
 ---
