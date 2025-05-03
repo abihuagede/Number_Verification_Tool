@@ -3,7 +3,7 @@
 
 This is a simple JavaScript-based tool that verifies phone numbers using the [Numverify API](https://numverify.com) and displays detailed information such as format, location, country, carrier, and line type. It also dynamically shows the country's flag using [Flagpedia](https://flagpedia.net).
 
-<a href="http://127.0.0.1:5500/number_verification/num_identity.html">live demo</a>
+<a href="https://abihuagede.github.io/Number_Verification_Tool/num_identity.html">live demo</a>
 
 ---
 
