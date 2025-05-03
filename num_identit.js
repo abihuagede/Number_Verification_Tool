@@ -3,7 +3,7 @@ async function verifyNum() {
 
   const inserctNum = document.getElementById("inserctNum").value.trim();
   const apiKey = "ae7b06bd5534a17233c7a57d6e56d037";
-  const apiURL = `http://apilayer.net/api/validate?access_key=${apiKey}&number=${inserctNum}&format=1`;
+  const apiURL = `https://apilayer.net/api/validate?access_key=${apiKey}&number=${inserctNum}&format=1`;
 
   try {
     const res = await fetch(apiURL);
