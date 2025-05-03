@@ -52,3 +52,10 @@ button:active {
   display: block;
   margin: auto;
 }
+small {
+  color: rgb(163, 163, 163);
+  margin: 10px;
+}
+span {
+  color: rgb(0, 225, 255);
+}
