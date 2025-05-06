@@ -1,4 +1,4 @@
-﻿# Number_Verification_Tool
+﻿# Number_Verification_Tool free to try it out 
 # 📱 Phone Number Verification Tool
 
 This is a simple JavaScript-based tool that verifies phone numbers using the [Numverify API](https://numverify.com) and displays detailed information such as format, location, country, carrier, and line type. It also dynamically shows the country's flag using [Flagpedia](https://flagpedia.net).
